@@ -1,0 +1,2 @@
+#https://realpython.com/api-integration-in-python/#api-endpoints guarda per API RESTFULL
+#https://solutiontoolkit.com/2023/03/implementation-of-http-methods-in-python-a-quick-guide/ guarda per implementazione dei metodi HTTP 
